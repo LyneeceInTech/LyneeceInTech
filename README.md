@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Active Directory Home Lab] (https://github.com/LyneeceInTech/LABURL)
+- <b>[Active Directory Home Lab](https://github.com/LyneeceInTech/ActiveDirectoryLab/tree/main)
 
 <h2>📄 Certifications</h2>
 
